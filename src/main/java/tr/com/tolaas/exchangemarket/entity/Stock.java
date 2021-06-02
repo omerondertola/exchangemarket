@@ -1,6 +1,5 @@
 package tr.com.tolaas.exchangemarket.entity;
 
-import java.security.acl.Owner;
 import java.time.LocalDate;
 
 public class Stock {
